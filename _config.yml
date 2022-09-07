@@ -110,7 +110,7 @@ author:
       icon: "fab fa-fw fa-wpforms"
       url: "https://forms.gle/vz2eMdKoADLYfD3q6"
     - label: "Coding Club"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-link"
       url: "https://shsmathteam.github.io"
 
 # Site Footer
@@ -120,7 +120,7 @@ footer:
       icon: "fab fa-fw fa-wpforms"
       url: "https://forms.gle/vz2eMdKoADLYfD3q6"
     - label: "Coding Club"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-link"
       url: "https://staplescoders.github.io"
 
 # Reading Files
