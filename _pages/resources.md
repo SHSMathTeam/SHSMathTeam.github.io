@@ -6,8 +6,8 @@ author_profile: true
 toc: false
 toc_sticky: true
 ---
-# Welcome to Resources!
-Here we have a lot of curated resources, like packets and links, we recommend that you check out a few.
+# Welcome!
+Here we have a lot of curated resources, like **packets and links**, we recommend that you check out a few.
 
 [FCML Main Site](https://fcmath.org){: .btn .btn--inverse}
 ## Match 1
