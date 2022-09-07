@@ -9,7 +9,7 @@ toc_sticky: true
 
 Welcome! We are the Staples Math Team, a group of students competing in the Fairfield County Math League (FCML)!
 
-Our current captains are [Tom Zhang '23](https://engitom.github.io), Ben Saxon '23, and Nikhil Shivali '23. 
+Our current captains are [Tom Zhang '23](https://engitom.github.io), Ben Saxon '23, and Nikhil Kanthan '23. 
 
 ## How big is the commitment?
 We understand that things get busy in high school, but we have semi-weekly meetings where we do most of our practice. 
