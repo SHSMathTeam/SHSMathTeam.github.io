@@ -18,5 +18,3 @@ Coming soon!
 
 # YouTube Channel
 [Click here!](https://www.youtube.com/channel/UC8kNqcOAFGi6qW3CEFamZHA){: .btn .btn--inverse}
-
-[Sign Up Here!](https://forms.gle/vz2eMdKoADLYfD3q6){: .btn .btn--inverse}
