@@ -11,7 +11,7 @@ Here we have a lot of curated resources, like packets and links, we recommend th
 
 [FCML Main Site](https://fcmath.org){: .btn .btn--inverse}
 ## Match 1
-[Master document](https://google.com)
+[Master document](https://google.com){: .btn .btn--inverse}
 ## Match 2
 Coming soon!
 
