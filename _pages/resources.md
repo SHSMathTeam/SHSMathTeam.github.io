@@ -3,7 +3,7 @@ layout: single
 title: Resources
 permalink: /resources/
 author_profile: true
-toc: false
+toc: true
 toc_sticky: true
 ---
 Here we have a lot of curated resources, like **packets and links**, we recommend that you check out a few.
@@ -12,6 +12,9 @@ Here we have a lot of curated resources, like **packets and links**, we recommen
 
 ## Packets
 For every match, we have a packet full of curated problems and tips+strategies. 
+
+## YouTube Channel
+[Click here!](https://www.youtube.com/channel/UC8kNqcOAFGi6qW3CEFamZHA){: .btn .btn--inverse}
 
 We will go over many of them during our meetings, but we recommend trying a couple at home!
 ### Match 1: Oct 6
@@ -27,5 +30,3 @@ Coming soon!
 ### Match 6: Mar 1
 Coming soon!
 
-# YouTube Channel
-[Click here!](https://www.youtube.com/channel/UC8kNqcOAFGi6qW3CEFamZHA){: .btn .btn--inverse}

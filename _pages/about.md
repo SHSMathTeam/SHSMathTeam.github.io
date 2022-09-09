@@ -18,7 +18,7 @@ We understand that things get busy in high school, but we have semi-weekly meeti
 Nope, you are welcome as long as you are interested!
 
 ## When and where is the weekly club meeting?
-We meet in-person on **Tuesday and Thursday**, in **Room 3063** from **2:45 to 3:45**. 
+We meet in-person on **Tuesday and Thursday**, in **Room 3063** from **2:45 to 3:30**. 
 
 Members are not required to come to every meeting. Feel free to drop in anytime! 
 
@@ -28,7 +28,9 @@ Every high school math topic before calculus!
 For example, geometry, algebra, probability, and many more...
 
 ## What kind of events will we attend?
-Once a month we will compete after school either at Fairfield Prep or at Staples!
+Once a month in the range [Oct, Mar] we will compete after school either at Fairfield Prep or at Staples!
+
+If we do well, we can qualify for states and nationals.
 
 Prior to that, students can learn the strategies required in competition from personally-curated resources.
 
