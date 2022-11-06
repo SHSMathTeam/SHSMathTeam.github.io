@@ -22,7 +22,7 @@ We will go over many of them during our meetings, but we recommend trying a coup
 ### Match 2: Nov 2
 [UBER STRATS](https://docs.google.com/document/d/1jSqhascPM0_AvLzXeFCjL8lLBAEtb61OKyj1HIj2rDg/){: .btn .btn--inverse}
 ### Match 3: Dec 7
-Coming soon!
+[Super Strats](https://docs.google.com/document/d/1xvoxQrGaST_vTni5uY94Ewvob3piSWbnLSaRt0008SY/edit?usp=sharing){: .btn .btn--inverse}
 ### Match 4: Jan 4
 Coming soon!
 ### Match 5: Feb 1
