@@ -24,7 +24,7 @@ We will go over many of them during our meetings, but we recommend trying a coup
 ### Match 3: Dec 7
 [Super Strats](https://docs.google.com/document/d/1xvoxQrGaST_vTni5uY94Ewvob3piSWbnLSaRt0008SY/edit?usp=sharing){: .btn .btn--inverse}
 ### Match 4: Jan 4
-Coming soon!
+[Amazing Strats](https://docs.google.com/document/d/1JN-KnE3m2vmIkA3IareIRJUW11KhimRRNkMR1Qip6Es/edit?usp=sharing){: .btn .btn--inverse}
 ### Match 5: Feb 1
 Coming soon!
 ### Match 6: Mar 1
